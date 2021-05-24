@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Hibernian-Funerals-Glossary/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Hibernian-Funerals-Glossary/static/js/main.47ab14ad.chunk.js",
+    "main.js.map": "/Hibernian-Funerals-Glossary/static/js/main.47ab14ad.chunk.js.map",
+    "runtime-main.js": "/Hibernian-Funerals-Glossary/static/js/runtime-main.2c216ed6.js",
+    "runtime-main.js.map": "/Hibernian-Funerals-Glossary/static/js/runtime-main.2c216ed6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Hibernian-Funerals-Glossary/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fdefae12.chunk.js": "/Hibernian-Funerals-Glossary/static/js/2.fdefae12.chunk.js",
+    "static/js/2.fdefae12.chunk.js.map": "/Hibernian-Funerals-Glossary/static/js/2.fdefae12.chunk.js.map",
+    "static/js/3.039bbf3a.chunk.js": "/Hibernian-Funerals-Glossary/static/js/3.039bbf3a.chunk.js",
+    "static/js/3.039bbf3a.chunk.js.map": "/Hibernian-Funerals-Glossary/static/js/3.039bbf3a.chunk.js.map",
+    "index.html": "/Hibernian-Funerals-Glossary/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Hibernian-Funerals-Glossary/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Hibernian-Funerals-Glossary/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fdefae12.chunk.js.LICENSE.txt": "/Hibernian-Funerals-Glossary/static/js/2.fdefae12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c216ed6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fdefae12.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.47ab14ad.chunk.js"
+  ]
+}

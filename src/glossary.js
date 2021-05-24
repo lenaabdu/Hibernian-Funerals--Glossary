@@ -52,9 +52,9 @@ class Glossary extends React.Component {
                     eventKey="0"
                     style={{ outlineStyle: "none", border: " 0px solid green" }}
                   >
-                    <h5>{" "}
-                      <GoPlus/> Advanced Health care Directive (AHD){" "}
-                    </h5>
+                    <h7>
+                      <GoPlus/> Advanced Healthcare Directive (AHD){" "}
+                    </h7>
                   </Accordion.Toggle>
                   <Accordion.Collapse eventKey="0">
                     <Card.Body> An Advance Healthcare Directive, sometimes known as a
@@ -1082,10 +1082,10 @@ It will vary between hospitals and between cultures.</Card.Body>
                     eventKey="0"
                     style={{ outlineStyle: "none", border: " 0px solid green" }}
                   >
-                    <h5>
+                    <h7>
                       {" "}
                       <GoPlus /> Supplementary Welfare Allowance (SWA){" "}
-                    </h5>
+                    </h7>
                   </Accordion.Toggle>
                   <Accordion.Collapse eventKey="0">
                     <Card.Body>The (SWA) scheme is operated by the Health Boards. No social insurance contributions are required as payment is based on the means of the person responsible for paying the funeral bill. You should apply to your local Community Welfare Officer at your local Health Centre before you pay the funeral bill, as the cheque will be issued to the undertaker/funeral director.</Card.Body>
